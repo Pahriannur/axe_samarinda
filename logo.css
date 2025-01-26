@@ -1,0 +1,6 @@
+
+.logo-small {
+    width: 24px; /* Atur lebar logo */
+    height: 24px; /* Atur tinggi logo */
+    object-fit: contain; /* Pastikan gambar tidak terdistorsi */
+}
